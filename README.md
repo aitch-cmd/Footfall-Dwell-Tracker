@@ -90,6 +90,3 @@ After processing, the script displays the last video frame with the heatmap (usi
 - **Edge Deployment**: Containerize for Jetson, NUC, or IoT-edge devices.
 - **Privacy Filters**: Face blurring or silhouette mode (GDPR compliance).
 
----
-
-**Clone the repo:**
